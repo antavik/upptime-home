@@ -11,6 +11,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.svechnikau.page
   # baseUrl: /upptime-home
+  theme: light
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Antavik's services status page
   # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
