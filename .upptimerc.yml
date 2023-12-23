@@ -5,6 +5,8 @@ repo: upptime-home # The name of this repository
 sites:
   - name: Homepage
     url: https://svechnikau.page/health
+  - name: Lnk
+    url: https://svechnikau.page/l/health
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
