@@ -13,7 +13,7 @@
     "time": 284,
     "timeDay": 526,
     "timeWeek": 295,
-    "timeMonth": 284,
+    "timeMonth": 293,
     "timeYear": 284,
     "dailyMinutesDown": {}
   },
@@ -22,17 +22,19 @@
     "url": "https://svechnikau.page/l/health",
     "icon": "https://icons.duckduckgo.com/ip3/svechnikau.page.ico",
     "slug": "lnk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 146,
-    "timeDay": 123,
+    "time": 145,
+    "timeDay": 129,
     "timeWeek": 135,
     "timeMonth": 146,
-    "timeYear": 146,
-    "dailyMinutesDown": {}
+    "timeYear": 145,
+    "dailyMinutesDown": {
+      "2024-01-23": 0
+    }
   }
 ]
